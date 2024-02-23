@@ -1,0 +1,1759 @@
+[
+  {
+    "id": "#001",
+    "name": "Bulbasaur",
+    "type": ["Erba", "Veleno"],
+    "price": "120.12",
+    "url": ""
+  },
+  {
+    "id": "#002",
+    "name": "Ivysaur",
+    "type": ["Erba", "Veleno"],
+    "price": "150.50",
+    "url": ""
+  },
+  {
+    "id": "#003",
+    "name": "Venusaur",
+    "type": ["Erba", "Veleno"],
+    "price": "200.25",
+    "url": ""
+  },
+  {
+    "id": "#004",
+    "name": "Charmander",
+    "type": ["Fuoco"],
+    "price": "80.75",
+    "url": ""
+  },
+  {
+    "id": "#005",
+    "name": "Charmeleon",
+    "type": ["Fuoco"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#006",
+    "name": "Charizard",
+    "type": ["Fuoco", "Volante"],
+    "price": "250.50",
+    "url": ""
+  },
+  {
+    "id": "#007",
+    "name": "Squirtle",
+    "type": ["Acqua"],
+    "price": "85.25",
+    "url": ""
+  },
+  {
+    "id": "#008",
+    "name": "Wartortle",
+    "type": ["Acqua"],
+    "price": "120.75",
+    "url": ""
+  },
+  {
+    "id": "#009",
+    "name": "Blastoise",
+    "type": ["Acqua"],
+    "price": "200.00",
+    "url": ""
+  },
+  {
+    "id": "#010",
+    "name": "Caterpie",
+    "type": ["Coleottero"],
+    "price": "30.50",
+    "url": ""
+  },
+  {
+    "id": "#011",
+    "name": "Metapod",
+    "type": ["Coleottero"],
+    "price": "40.00",
+    "url": ""
+  },
+  {
+    "id": "#012",
+    "name": "Butterfree",
+    "type": ["Coleottero", "Volante"],
+    "price": "80.50",
+    "url": ""
+  },
+  {
+    "id": "#013",
+    "name": "Weedle",
+    "type": ["Coleottero", "Veleno"],
+    "price": "35.75",
+    "url": ""
+  },
+  {
+    "id": "#014",
+    "name": "Kakuna",
+    "type": ["Coleottero", "Veleno"],
+    "price": "45.25",
+    "url": ""
+  },
+  {
+    "id": "#015",
+    "name": "Beedrill",
+    "type": ["Coleottero", "Veleno"],
+    "price": "90.00",
+    "url": ""
+  },
+  {
+    "id": "#016",
+    "name": "Pidgey",
+    "type": ["Normale", "Volante"],
+    "price": "50.50",
+    "url": ""
+  },
+  {
+    "id": "#017",
+    "name": "Pidgeotto",
+    "type": ["Normale", "Volante"],
+    "price": "80.25",
+    "url": ""
+  },
+  {
+    "id": "#018",
+    "name": "Pidgeot",
+    "type": ["Normale", "Volante"],
+    "price": "150.00",
+    "url": ""
+  },
+  {
+    "id": "#019",
+    "name": "Rattata",
+    "type": ["Normale"],
+    "price": "40.00",
+    "url": ""
+  },
+  {
+    "id": "#020",
+    "name": "Raticate",
+    "type": ["Normale"],
+    "price": "70.50",
+    "url": ""
+  },
+  {
+    "id": "#021",
+    "name": "Spearow",
+    "type": ["Normale", "Volante"],
+    "price": "55.25",
+    "url": ""
+  },
+  {
+    "id": "#022",
+    "name": "Fearow",
+    "type": ["Normale", "Volante"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#023",
+    "name": "Ekans",
+    "type": ["Veleno"],
+    "price": "45.75",
+    "url": ""
+  },
+  {
+    "id": "#024",
+    "name": "Arbok",
+    "type": ["Veleno"],
+    "price": "90.25",
+    "url": ""
+  },
+  {
+    "id": "#025",
+    "name": "Pikachu",
+    "type": ["Elettro"],
+    "price": "100.50",
+    "url": ""
+  },
+  {
+    "id": "#026",
+    "name": "Raichu",
+    "type": ["Elettro"],
+    "price": "150.00",
+    "url": ""
+  },
+  {
+    "id": "#027",
+    "name": "Sandshrew",
+    "type": ["Terra"],
+    "price": "60.25",
+    "url": ""
+  },
+  {
+    "id": "#028",
+    "name": "Sandslash",
+    "type": ["Terra"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#029",
+    "name": "Nidoran♀",
+    "type": ["Veleno"],
+    "price": "65.50",
+    "url": ""
+  },
+  {
+    "id": "#030",
+    "name": "Nidorina",
+    "type": ["Veleno"],
+    "price": "95.25",
+    "url": ""
+  },
+  {
+    "id": "#031",
+    "name": "Nidoqueen",
+    "type": ["Veleno", "Terra"],
+    "price": "180.00",
+    "url": ""
+  },
+  {
+    "id": "#032",
+    "name": "Nidoran♂",
+    "type": ["Veleno"],
+    "price": "65.50",
+    "url": ""
+  },
+  {
+    "id": "#033",
+    "name": "Nidorino",
+    "type": ["Veleno"],
+    "price": "95.25",
+    "url": ""
+  },
+  {
+    "id": "#034",
+    "name": "Nidoking",
+    "type": ["Veleno", "Terra"],
+    "price": "180.00",
+    "url": ""
+  },
+  {
+    "id": "#035",
+    "name": "Clefairy",
+    "type": ["Folletto"],
+    "price": "120.50",
+    "url": ""
+  },
+  {
+    "id": "#036",
+    "name": "Clefable",
+    "type": ["Folletto"],
+    "price": "200.25",
+    "url": ""
+  },
+  {
+    "id": "#037",
+    "name": "Vulpix",
+    "type": ["Fuoco"],
+    "price": "80.75",
+    "url": ""
+  },
+  {
+    "id": "#038",
+    "name": "Ninetales",
+    "type": ["Fuoco"],
+    "price": "150.50",
+    "url": ""
+  },
+  {
+    "id": "#039",
+    "name": "Jigglypuff",
+    "type": ["Normale", "Folletto"],
+    "price": "100.00",
+    "url": ""
+  },
+  {
+    "id": "#040",
+    "name": "Wigglytuff",
+    "type": ["Normale", "Folletto"],
+    "price": "160.25",
+    "url": ""
+  },
+  {
+    "id": "#041",
+    "name": "Zubat",
+    "type": ["Veleno", "Volante"],
+    "price": "55.50",
+    "url": ""
+  },
+  {
+    "id": "#042",
+    "name": "Golbat",
+    "type": ["Veleno", "Volante"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#043",
+    "name": "Oddish",
+    "type": ["Erba", "Veleno"],
+    "price": "70.75",
+    "url": ""
+  },
+  {
+    "id": "#044",
+    "name": "Gloom",
+    "type": ["Erba", "Veleno"],
+    "price": "95.25",
+    "url": ""
+  },
+  {
+    "id": "#045",
+    "name": "Vileplume",
+    "type": ["Erba", "Veleno"],
+    "price": "140.50",
+    "url": ""
+  },
+  {
+    "id": "#046",
+    "name": "Paras",
+    "type": ["Coleottero", "Erba"],
+    "price": "60.00",
+    "url": ""
+  },
+  {
+    "id": "#047",
+    "name": "Parasect",
+    "type": ["Coleottero", "Erba"],
+    "price": "110.25",
+    "url": ""
+  },
+  {
+    "id": "#048",
+    "name": "Venonat",
+    "type": ["Coleottero", "Veleno"],
+    "price": "65.50",
+    "url": ""
+  },
+  {
+    "id": "#049",
+    "name": "Venomoth",
+    "type": ["Coleottero", "Veleno"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#050",
+    "name": "Diglett",
+    "type": ["Terra"],
+    "price": "45.75",
+    "url": ""
+  },
+  {
+    "id": "#051",
+    "name": "Dugtrio",
+    "type": ["Terra"],
+    "price": "90.25",
+    "url": ""
+  },
+  {
+    "id": "#052",
+    "name": "Meowth",
+    "type": ["Normale"],
+    "price": "50.50",
+    "url": ""
+  },
+  {
+    "id": "#053",
+    "name": "Persian",
+    "type": ["Normale"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#054",
+    "name": "Psyduck",
+    "type": ["Acqua"],
+    "price": "80.75",
+    "url": ""
+  },
+  {
+    "id": "#055",
+    "name": "Golduck",
+    "type": ["Acqua"],
+    "price": "150.50",
+    "url": ""
+  },
+  {
+    "id": "#056",
+    "name": "Mankey",
+    "type": ["Lotta"],
+    "price": "70.25",
+    "url": ""
+  },
+  {
+    "id": "#057",
+    "name": "Primeape",
+    "type": ["Lotta"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#058",
+    "name": "Growlithe",
+    "type": ["Fuoco"],
+    "price": "85.50",
+    "url": ""
+  },
+  {
+    "id": "#059",
+    "name": "Arcanine",
+    "type": ["Fuoco"],
+    "price": "160.25",
+    "url": ""
+  },
+  {
+    "id": "#060",
+    "name": "Poliwag",
+    "type": ["Acqua"],
+    "price": "60.75",
+    "url": ""
+  },
+  {
+    "id": "#061",
+    "name": "Poliwhirl",
+    "type": ["Acqua"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#062",
+    "name": "Poliwrath",
+    "type": ["Acqua", "Lotta"],
+    "price": "150.50",
+    "url": ""
+  },
+  {
+    "id": "#063",
+    "name": "Abra",
+    "type": ["Psico"],
+    "price": "80.00",
+    "url": ""
+  },
+  {
+    "id": "#064",
+    "name": "Kadabra",
+    "type": ["Psico"],
+    "price": "120.25",
+    "url": ""
+  },
+  {
+    "id": "#065",
+    "name": "Alakazam",
+    "type": ["Psico"],
+    "price": "200.00",
+    "url": ""
+  },
+  {
+    "id": "#066",
+    "name": "Machop",
+    "type": ["Lotta"],
+    "price": "70.75",
+    "url": ""
+  },
+  {
+    "id": "#067",
+    "name": "Machoke",
+    "type": ["Lotta"],
+    "price": "120.50",
+    "url": ""
+  },
+  {
+    "id": "#068",
+    "name": "Machamp",
+    "type": ["Lotta"],
+    "price": "180.25",
+    "url": ""
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "type": ["Erba", "Veleno"],
+    "price": 80.50,
+    "url": ""
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "type": ["Erba", "Veleno"],
+    "price": 90.75,
+    "url": ""
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "type": ["Erba", "Veleno"],
+    "price": 110.25,
+    "url": ""
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "type": ["Acqua", "Veleno"],
+    "price": 95.40,
+    "url": ""
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "type": ["Acqua", "Veleno"],
+    "price": 120.60,
+    "url": ""
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "type": ["Roccia", "Terra"],
+    "price": 85.20,
+    "url": ""
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "type": ["Roccia", "Terra"],
+    "price": 100.30,
+    "url": ""
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "type": ["Roccia", "Terra"],
+    "price": 130.80,
+    "url": ""
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "type": ["Fuoco"],
+    "price": 110.20,
+    "url": ""
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "type": ["Fuoco"],
+    "price": 125.40,
+    "url": ""
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "type": ["Acqua", "Psico"],
+    "price": 95.90,
+    "url": ""
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "type": ["Acqua", "Psico"],
+    "price": 120.15,
+    "url": ""
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "type": ["Elettro", "Acciaio"],
+    "price": 85.50,
+    "url": ""
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "type": ["Elettro", "Acciaio"],
+    "price": 110.70,
+    "url": ""
+  },
+  {
+    "id": 83,
+    "name": "Farfetch'd",
+    "type": ["Normale", "Volante"],
+    "price": 95.80,
+    "url": ""
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "type": ["Normale", "Volante"],
+    "price": 80.25,
+    "url": ""
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "type": ["Normale", "Volante"],
+    "price": 105.50,
+    "url": ""
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "type": ["Acqua"],
+    "price": 90.30,
+    "url": ""
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "type": ["Acqua", "Ghiaccio"],
+    "price": 115.60,
+    "url": ""
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "type": ["Veleno"],
+    "price": 75.90,
+    "url": ""
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "type": ["Veleno"],
+    "price": 100.10,
+    "url": ""
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "type": ["Acqua"],
+    "price": 80.20,
+    "url": ""
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "type": ["Acqua", "Ghiaccio"],
+    "price": 105.40,
+    "url": ""
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "type": ["Spettro", "Veleno"],
+    "price": 85.70,
+    "url": ""
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "type": ["Spettro", "Veleno"],
+    "price": 100.90,
+    "url": ""
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "type": ["Spettro", "Veleno"],
+    "price": 130.20,
+    "url": ""
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "type": ["Roccia", "Terra"],
+    "price": 110.60,
+    "url": ""
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "type": ["Psico"],
+    "price": 75.80,
+    "url": ""
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "type": ["Psico"],
+    "price": 100.00,
+    "url": ""
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "type": ["Acqua"],
+    "price": 85.20,
+    "url": ""
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "type": ["Acqua"],
+    "price": 110.40,
+    "url": ""
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "type": ["Elettro"],
+    "price": 80.60,
+    "url": ""
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "type": ["Elettro"],
+    "price": 95.75,
+    "url": ""
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "type": ["Erba", "Psico"],
+    "price": 85.90,
+    "url": ""
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "type": ["Erba", "Psico"],
+    "price": 120.25,
+    "url": ""
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "type": ["Terra"],
+    "price": 80.40,
+    "url": ""
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "type": ["Terra"],
+    "price": 100.60,
+    "url": ""
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "type": ["Lotta"],
+    "price": 110.80,
+    "url": ""
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "type": ["Lotta"],
+    "price": 115.90,
+    "url": ""
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "type": ["Normale"],
+    "price": 95.10,
+    "url": ""
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "type": ["Veleno"],
+    "price": 85.30,
+    "url": ""
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "type": ["Veleno"],
+    "price": 105.50,
+    "url": ""
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "type": ["Terra", "Roccia"],
+    "price": 90.70,
+    "url": ""
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "type": ["Terra", "Roccia"],
+    "price": 115.90,
+    "url": ""
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "type": ["Normale"],
+    "price": 120.20,
+    "url": ""
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "type": ["Erba"],
+    "price": 95.40,
+    "url": ""
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "type": ["Normale"],
+    "price": 130.60,
+    "url": ""
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "type": ["Acqua"],
+    "price": 80.80,
+    "url": ""
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "type": ["Acqua"],
+    "price": 100.10,
+    "url": ""
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "type": ["Acqua"],
+    "price": 85.30,
+    "url": ""
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "type": ["Acqua"],
+    "price": 105.50,
+    "url": ""
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "type": ["Acqua"],
+    "price": 90.60,
+    "url": ""
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "type": ["Acqua", "Psico"],
+    "price": 115.80,
+    "url": ""
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "type": ["Psico", "Folletto"],
+    "price": 100.00,
+    "url": ""
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "type": ["Coleottero", "Volante"],
+    "price": 130.20,
+    "url": ""
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "type": ["Ghiaccio", "Psico"],
+    "price": 110.40,
+    "url": ""
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "type": ["Elettro"],
+    "price": 115.60,
+    "url": ""
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "type": ["Fuoco"],
+    "price": 120.80,
+    "url": ""
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "type": ["Coleottero"],
+    "price": 130.00,
+    "url": ""
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "type": ["Normale"],
+    "price": 110.20,
+    "url": ""
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "type": ["Acqua"],
+    "price": 75.30,
+    "url": ""
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "type": ["Acqua", "Volante"],
+    "price": 150.50,
+    "url": ""
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "type": ["Acqua", "Ghiaccio"],
+    "price": 160.70,
+    "url": ""
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "type": ["Normale"],
+    "price": 100.00,
+    "url": ""
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "type": ["Normale"],
+    "price": 90.20,
+    "url": ""
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "type": ["Acqua"],
+    "price": 130.40,
+    "url": ""
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "type": ["Elettro"],
+    "price": 130.40,
+    "url": ""
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "type": ["Fuoco"],
+    "price": 130.40,
+    "url": ""
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "type": ["Normale"],
+    "price": 120.60,
+    "url": ""
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "type": ["Roccia", "Acqua"],
+    "price": 110.80,
+    "url": ""
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "type": ["Roccia", "Acqua"],
+    "price": 140.00,
+    "url": ""
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "type": ["Roccia", "Acqua"],
+    "price": 100.20,
+    "url": ""
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "type": ["Roccia", "Acqua"],
+    "price": 130.40,
+    "url": ""
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "type": ["Roccia", "Volante"],
+    "price": 150.60,
+    "url": ""
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "type": ["Normale"],
+    "price": 180.80,
+    "url": ""
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "type": ["Ghiaccio", "Volante"],
+    "price": 200.00,
+    "url": ""
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "type": ["Elettro", "Volante"],
+    "price": 200.00,
+    "url": ""
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "type": ["Fuoco", "Volante"],
+    "price": 200.00,
+    "url": ""
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "type": ["Drago"],
+    "price": 90.30,
+    "url": ""
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "type": ["Drago"],
+    "price": 120.50,
+    "url": ""
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "type": ["Drago", "Volante"],
+    "price": 200.00,
+    "url": ""
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "type": ["Psico"],
+    "price": 200.00,
+    "url": ""
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "type": ["Psico"],
+    "price": 200.00,
+    "url": ""
+  },
+  {
+    "id": "#152",
+    "name": "Chikorita",
+    "type": ["Erba"],
+    "price": "75.00",
+    "url": ""
+  },
+  {
+    "id": "#153",
+    "name": "Bayleef",
+    "type": ["Erba"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#154",
+    "name": "Meganium",
+    "type": ["Erba"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#155",
+    "name": "Cyndaquil",
+    "type": ["Fuoco"],
+    "price": "75.00",
+    "url": ""
+  },
+  {
+    "id": "#156",
+    "name": "Quilava",
+    "type": ["Fuoco"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#157",
+    "name": "Typhlosion",
+    "type": ["Fuoco"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#158",
+    "name": "Totodile",
+    "type": ["Acqua"],
+    "price": "75.00",
+    "url": ""
+  },
+  {
+    "id": "#159",
+    "name": "Croconaw",
+    "type": ["Acqua"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#160",
+    "name": "Feraligatr",
+    "type": ["Acqua"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#161",
+    "name": "Sentret",
+    "type": ["Normale"],
+    "price": "70.00",
+    "url": ""
+  },
+  {
+    "id": "#162",
+    "name": "Furret",
+    "type": ["Normale"],
+    "price": "90.00",
+    "url": ""
+  },
+  {
+    "id": "#163",
+    "name": "Hoothoot",
+    "type": ["Normale", "Volante"],
+    "price": "85.00",
+    "url": ""
+  },
+  {
+    "id": "#164",
+    "name": "Noctowl",
+    "type": ["Normale", "Volante"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#165",
+    "name": "Ledyba",
+    "type": ["Coleottero", "Volante"],
+    "price": "80.00",
+    "url": ""
+  },
+  {
+    "id": "#166",
+    "name": "Ledian",
+    "type": ["Coleottero", "Volante"],
+    "price": "105.00",
+    "url": ""
+  },
+  {
+    "id": "#167",
+    "name": "Spinarak",
+    "type": ["Coleottero", "Veleno"],
+    "price": "85.00",
+    "url": ""
+  },
+  {
+    "id": "#168",
+    "name": "Ariados",
+    "type": ["Coleottero", "Veleno"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#169",
+    "name": "Crobat",
+    "type": ["Veleno", "Volante"],
+    "price": "130.00",
+    "url": ""
+  },
+  {
+    "id": "#170",
+    "name": "Chinchou",
+    "type": ["Acqua", "Elettro"],
+    "price": "90.00",
+    "url": ""
+  },
+  {
+    "id": "#171",
+    "name": "Lanturn",
+    "type": ["Acqua", "Elettro"],
+    "price": "115.00",
+    "url": ""
+  },
+  {
+    "id": "#172",
+    "name": "Pichu",
+    "type": ["Elettrico"],
+    "price": "80.00",
+    "url": ""
+  },
+  {
+    "id": "#173",
+    "name": "Cleffa",
+    "type": ["Folletto"],
+    "price": "80.00",
+    "url": ""
+  },
+  {
+    "id": "#174",
+    "name": "Igglybuff",
+    "type": ["Normale", "Folletto"],
+    "price": "80.00",
+    "url": ""
+  },
+  {
+    "id": "#175",
+    "name": "Togepi",
+    "type": ["Folletto"],
+    "price": "85.00",
+    "url": ""
+  },
+  {
+    "id": "#176",
+    "name": "Togetic",
+    "type": ["Folletto", "Volante"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#177",
+    "name": "Natu",
+    "type": ["Psico", "Volante"],
+    "price": "85.00",
+    "url": ""
+  },
+  {
+    "id": "#178",
+    "name": "Xatu",
+    "type": ["Psico", "Volante"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#179",
+    "name": "Mareep",
+    "type": ["Elettrico"],
+    "price": "75.00",
+    "url": ""
+  },
+  {
+    "id": "#180",
+    "name": "Flaaffy",
+    "type": ["Elettrico"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#181",
+    "name": "Ampharos",
+    "type": ["Elettrico"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#182",
+    "name": "Bellossom",
+    "type": ["Erba"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#183",
+    "name": "Marill",
+    "type": ["Acqua", "Folletto"],
+    "price": "90.00",
+    "url": ""
+  },
+  {
+    "id": "#184",
+    "name": "Azumarill",
+    "type": ["Acqua", "Folletto"],
+    "price": "115.00",
+    "url": ""
+  },
+  {
+    "id": "#185",
+    "name": "Sudowoodo",
+    "type": ["Roccia"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#186",
+    "name": "Politoed",
+    "type": ["Acqua"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#187",
+    "name": "Hoppip",
+    "type": ["Erba", "Volante"],
+    "price": "80.00",
+    "url": ""
+  },
+  {
+    "id": "#188",
+    "name": "Skiploom",
+    "type": ["Erba", "Volante"],
+    "price": "105.00",
+    "url": ""
+  },
+  {
+    "id": "#189",
+    "name": "Jumpluff",
+    "type": ["Erba", "Volante"],
+    "price": "130.00",
+    "url": ""
+  },
+  {
+    "id": "#190",
+    "name": "Aipom",
+    "type": ["Normale"],
+    "price": "90.00",
+    "url": ""
+  },
+  {
+    "id": "#191",
+    "name": "Sunkern",
+    "type": ["Erba"],
+    "price": "75.00",
+    "url": ""
+  },
+  {
+    "id": "#192",
+    "name": "Sunflora",
+    "type": ["Erba"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#193",
+    "name": "Yanma",
+    "type": ["Coleottero", "Volante"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#194",
+    "name": "Wooper",
+    "type": ["Acqua", "Terra"],
+    "price": "85.00",
+    "url": ""
+  },
+  {
+    "id": "#195",
+    "name": "Quagsire",
+    "type": ["Acqua", "Terra"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#196",
+    "name": "Espeon",
+    "type": ["Psico"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#197",
+    "name": "Umbreon",
+    "type": ["Buio"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#198",
+    "name": "Murkrow",
+    "type": ["Buio", "Volante"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#199",
+    "name": "Slowking",
+    "type": ["Acqua", "Psico"],
+    "price": "130.00",
+    "url": ""
+  },
+  {
+    "id": "#200",
+    "name": "Misdreavous",
+    "type": ["Spettro"],
+    "price": "105.00",
+    "url": ""
+  },
+  {
+    "id": "#201",
+    "name": "Unown",
+    "type": ["Psico"],
+    "price": "100.00",
+    "url": ""
+  },
+  {
+    "id": "#202",
+    "name": "Wobbuffet",
+    "type": ["Psico"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#203",
+    "name": "Girafarig",
+    "type": ["Normale", "Psico"],
+    "price": "100.00",
+    "url": ""
+  },
+  {
+    "id": "#204",
+    "name": "Pineco",
+    "type": ["Coleottero"],
+    "price": "85.00",
+    "url": ""
+  },
+  {
+    "id": "#205",
+    "name": "Forretress",
+    "type": ["Coleottero", "Acciaio"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#206",
+    "name": "Dunsparce",
+    "type": ["Normale"],
+    "price": "90.00",
+    "url": ""
+  },
+  {
+    "id": "#207",
+    "name": "Gligar",
+    "type": ["Terra", "Volante"],
+    "price": "100.00",
+    "url": ""
+  },
+  {
+    "id": "#208",
+    "name": "Steelix",
+    "type": ["Acciaio", "Terra"],
+    "price": "130.00",
+    "url": ""
+  },
+  {
+    "id": "#209",
+    "name": "Snubbull",
+    "type": ["Folletto"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#210",
+    "name": "Granbull",
+    "type": ["Folletto"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#211",
+    "name": "Qwilfish",
+    "type": ["Acqua", "Veleno"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#212",
+    "name": "Scizor",
+    "type": ["Coleottero", "Acciaio"],
+    "price": "130.00",
+    "url": ""
+  },
+  {
+    "id": "#213",
+    "name": "Shuckle",
+    "type": ["Coleottero", "Roccia"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#214",
+    "name": "Heracross",
+    "type": ["Coleottero", "Lotta"],
+    "price": "130.00",
+    "url": ""
+  },
+  {
+    "id": "#215",
+    "name": "Sneasel",
+    "type": ["Buio", "Ghiaccio"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#216",
+    "name": "Teddiursa",
+    "type": ["Normale"],
+    "price": "95.00",
+    "url": ""
+  },
+  {
+    "id": "#217",
+    "name": "Ursaring",
+    "type": ["Normale"],
+    "price": "120.00",
+    "url": ""
+  },
+  {
+    "id": "#218",
+    "name": "Slugma",
+    "type": ["Fuoco"],
+    "price": "75.00",
+    "url": ""
+  },
+  {
+    "id": "#219",
+    "name": "Magcargo",
+    "type": ["Fuoco", "Roccia"],
+    "price": "110.00",
+    "url": ""
+  },
+  {
+    "id": "#220",
+    "name": "Swinub",
+    "type": ["Ghiaccio", "Terra"],
+    "price": "55.25",
+    "url": ""
+  },
+  {
+    "id": "#221",
+    "name": "Piloswine",
+    "type": ["Ghiaccio", "Terra"],
+    "price": "75.50",
+    "url": ""
+  },
+  {
+    "id": "#222",
+    "name": "Corsola",
+    "type": ["Acqua", "Roccia"],
+    "price": "90.75",
+    "url": ""
+  },
+  {
+    "id": "#223",
+    "name": "Remoraid",
+    "type": ["Acqua"],
+    "price": "40.30",
+    "url": ""
+  },
+  {
+    "id": "#224",
+    "name": "Octillery",
+    "type": ["Acqua"],
+    "price": "65.80",
+    "url": ""
+  },
+  {
+    "id": "#225",
+    "name": "Delibird",
+    "type": ["Ghiaccio", "Volante"],
+    "price": "80.20",
+    "url": ""
+  },
+  {
+    "id": "#226",
+    "name": "Mantine",
+    "type": ["Acqua", "Volante"],
+    "price": "95.50",
+    "url": ""
+  },
+  {
+    "id": "#227",
+    "name": "Skarmory",
+    "type": ["Acciaio", "Volante"],
+    "price": "110.75",
+    "url": ""
+  },
+  {
+    "id": "#228",
+    "name": "Houndour",
+    "type": ["Buio", "Fuoco"],
+    "price": "60.40",
+    "url": ""
+  },
+  {
+    "id": "#229",
+    "name": "Houndoom",
+    "type": ["Buio", "Fuoco"],
+    "price": "85.90",
+    "url": ""
+  },
+  {
+    "id": "#230",
+    "name": "Kingdra",
+    "type": ["Acqua", "Drago"],
+    "price": "100.30",
+    "url": ""
+  },
+  {
+    "id": "#231",
+    "name": "Phanpy",
+    "type": ["Terra"],
+    "price": "45.60",
+    "url": ""
+  },
+  {
+    "id": "#232",
+    "name": "Donphan",
+    "type": ["Terra"],
+    "price": "70.10",
+    "url": ""
+  },
+  {
+    "id": "#233",
+    "name": "Porygon2",
+    "type": ["Normale"],
+    "price": "85.40",
+    "url": ""
+  },
+  {
+    "id": "#234",
+    "name": "Stantler",
+    "type": ["Normale"],
+    "price": "95.75",
+    "url": ""
+  },
+  {
+    "id": "#235",
+    "name": "Smeargle",
+    "type": ["Normale"],
+    "price": "110.20",
+    "url": ""
+  },
+  {
+    "id": "#236",
+    "name": "Tyrogue",
+    "type": ["Lotta"],
+    "price": "50.30",
+    "url": ""
+  },
+  {
+    "id": "#237",
+    "name": "Hitmontop",
+    "type": ["Lotta"],
+    "price": "75.80",
+    "url": ""
+  },
+  {
+    "id": "#238",
+    "name": "Smoochum",
+    "type": ["Ghiaccio", "Psico"],
+    "price": "90.25",
+    "url": ""
+  },
+  {
+    "id": "#239",
+    "name": "Elekid",
+    "type": ["Elettro"],
+    "price": "40.50",
+    "url": ""
+  },
+  {
+    "id": "#240",
+    "name": "Magby",
+    "type": ["Fuoco"],
+    "price": "65.90",
+    "url": ""
+  },
+  {
+    "id": "#241",
+    "name": "Miltank",
+    "type": ["Normale"],
+    "price": "80.20",
+    "url": ""
+  },
+  {
+    "id": "#242",
+    "name": "Blissey",
+    "type": ["Normale"],
+    "price": "95.60",
+    "url": ""
+  },
+  {
+    "id": "#243",
+    "name": "Raikou",
+    "type": ["Elettro"],
+    "price": "110.10",
+    "url": ""
+  },
+  {
+    "id": "#244",
+    "name": "Entei",
+    "type": ["Fuoco"],
+    "price": "125.40",
+    "url": ""
+  },
+  {
+    "id": "#245",
+    "name": "Suicune",
+    "type": ["Acqua"],
+    "price": "140.75",
+    "url": ""
+  },
+  {
+    "id": "#246",
+    "name": "Larvitar",
+    "type": ["Roccia", "Terra"],
+    "price": "65.30",
+    "url": ""
+  },
+  {
+    "id": "#247",
+    "name": "Pupitar",
+    "type": ["Roccia", "Terra"],
+    "price": "90.80",
+    "url": ""
+  },
+  {
+    "id": "#248",
+    "name": "Tyranitar",
+    "type": ["Roccia", "Buio"],
+    "price": "105.25",
+    "url": ""
+  },
+  {
+    "id": "#249",
+    "name": "Lugia",
+    "type": ["Psico", "Volante"],
+    "price": "120.60",
+    "url": ""
+  },
+  {
+    "id": "#250",
+    "name": "Ho-Oh",
+    "type": ["Fuoco", "Volante"],
+    "price": "135.90",
+    "url": ""
+  },
+  {
+    "id": "#251",
+    "name": "Celebi",
+    "type": ["Psico", "Erba"],
+    "price": "150.25",
+    "url": ""
+  }
+]

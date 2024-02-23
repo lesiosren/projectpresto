@@ -1,0 +1,207 @@
+/*GENERICI*/
+:root {
+  --red: #8C271E;
+  --pokered: #c63629;
+  --lightcyan: #E7F5F7;
+  --black: #1C2726;
+  --offwhite: #fbfbfb;
+  --gainsboro: #c7c7c7;
+}
+
+.text-red {
+  color: var(--red);
+}
+
+.text-black {
+  color: var(--black);
+}
+
+body {
+  background-color: var(--offwhite) ;
+}
+
+.margin-custom {
+  margin-top: 100px;
+}
+
+/*NAVBAR E HEADER*/
+.button-aggiungi {
+  background: var(--pokered);
+  border: 0px;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: var(--lightcyan);
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  list-style-type: none;
+}
+
+.button-aggiungi:hover,
+.button-aggiungi:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: var(--pokered);
+}
+
+.button-aggiungi:active {
+  opacity: .5;
+}
+
+.navbar-transition {
+  transition: 0.5s;
+}
+
+.div_custom{
+  height: 2000px;
+}
+
+.container-header{
+  padding-top: 150px;
+}
+
+
+.button-mostra {
+  background: var(--red);
+  border: 1px solid var(--red);
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: var(--offwhite);
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.button-mostra:hover,
+.button-mostra:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #FF4742;
+}
+
+.button-mostra:active {
+  opacity: .5;
+}
+
+/*ANIMAZIONE POKEBALL*/
+.pokeball {
+  animation: ruota 50s infinite linear;
+}
+
+@keyframes ruota {
+  from {
+      transform: rotate(0deg);
+  }
+  to {
+      transform: rotate(360deg);
+  }
+}
+
+/*CARTE POKEMON*/
+.carta-pokemon {
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: end;
+}
+
+.icon-container > i {
+  cursor: pointer;
+  color: var(--gainsboro);
+  font-size: 25px;
+}
+
+.margin-heart {
+  margin-top: 10px;
+  margin-right: 13px;
+}
+
+.container-counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+/*RECENSIONI*/
+.review-card {
+  width: 600px;
+  height: 430px;
+  border: 5px solid #b60c0c;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.star-container > i {
+  font-size: larger;
+}
+
+
+/*SWIPER*/
+    .swiper {
+      width: 600px;
+      height: 430px;
+    }
+
+    .swiper-slide:nth-child(1n) {
+      background-color: var(--offwhite);
+    }
+
+    .swiper-slide:nth-child(2n) {
+      background-color: var(--offwhite);
+    }
+
+    .swiper-slide:nth-child(3n) {
+      background-color: var(--offwhite);
+    }
+
+    .swiper-slide:nth-child(4n) {
+      background-color: var(--offwhite);
+    }
+
+    .swiper-slide:nth-child(5n) {
+
+    }
+
+    .swiper-slide:nth-child(6n) {
+
+    }
+
+    .swiper-slide:nth-child(7n) {
+
+    }
+
+
+    /*ANNUINCI POKEMON*/
